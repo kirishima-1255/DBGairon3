@@ -1,0 +1,11 @@
+CustomerID,Name,Address,Phone,Email
+112233445563,鈴木 次郎,神奈川県横浜市西区,070-xxxx-xxxx,jiro.suzuki@example.com
+119988776640,小林 大輔,さいたま市浦和区,090-xxxx-xxxx,daisuke.kobayashi@example.com
+123456789012,山田 太郎,神奈川県横浜市鶴見区,090-xxxx-xxxx,taro.yamada@example.com
+332211445571,中村 明美,東京都目黒区,070-xxxx-xxxx,akemi.nakamura@example.com
+445566778890,松本 健,東京都墨田区,080-xxxx-xxxx,ken.matsumoto@example.com
+554433221100,伊藤 克己,東京都港区,070-xxxx-xxxx,katsumi.ito@example.com
+556677889900,田中 三郎,神奈川県横浜市港北区,090-xxxx-xxxx,saburo.tanaka@example.com
+667788990011,渡辺 春子,東京都台東区,090-xxxx-xxxx,haruko.watanabe@example.com
+987654321090,佐藤 花子,神奈川県横浜市中区,080-xxxx-xxxx,hanako.sato@example.com
+998877665542,高橋 美香,東京都新宿区,080-xxxx-xxxx,mika.takahashi@example.com

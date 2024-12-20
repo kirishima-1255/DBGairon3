@@ -1,0 +1,4 @@
+BranchID,BranchName
+1,横浜
+2,川崎
+3,相模原
